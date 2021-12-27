@@ -21,3 +21,13 @@ body {
 .result-content {
   font-size: 30px;
 }
+
+#scoreTable {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+}
+
+#results {
+  height: 100px;
+}
