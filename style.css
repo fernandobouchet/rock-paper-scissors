@@ -1,0 +1,23 @@
+body {
+  background-color: #fb8500;
+  font-family: "Bungee", cursive;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1000px;
+}
+
+.game-img {
+  width: 30%;
+}
+
+.result-content {
+  font-size: 30px;
+}
